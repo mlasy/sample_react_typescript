@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App App renders 1`] = `
+<div
+  style={
+    Object {
+      "margin": "20px",
+    }
+  }
+>
+  <input
+    onChange={[Function]}
+    value=""
+  />
+  <button
+    onClick={[Function]}
+  >
+    Add
+  </button>
+  <ul />
+</div>
+`;
